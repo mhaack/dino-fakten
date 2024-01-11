@@ -229,11 +229,11 @@ main .section.center {
   text-align: center;
 }
 
-main .section.gradiant {
+main .section.gradient {
   background: linear-gradient(0deg, #ffffff 0%, #f4c033 100%);
 }
 
-main .section.gradiant img{
+main .section.gradient img{
   width: 256px;
   height: auto;
 }
