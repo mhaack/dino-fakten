@@ -224,3 +224,16 @@ main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
 }
+
+main .section.center {
+  text-align: center;
+}
+
+main .section.gradiant {
+  background: linear-gradient(0deg, #ffffff 0%, #f4c033 100%);
+}
+
+main .section.gradiant img{
+  width: 256px;
+  height: auto;
+}
