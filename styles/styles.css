@@ -237,3 +237,7 @@ main .section.gradient img{
   width: 256px;
   height: auto;
 }
+
+home main .hero img{
+  object-fit: cover;
+}
